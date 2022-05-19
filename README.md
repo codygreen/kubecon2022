@@ -8,16 +8,24 @@ Welcome! This tutorial offers newcomers a quick way to experience Kubernetes and
 
 We use this Codespaces platform for `inner-loop` Kubernetes training and development. Note that it is not appropriate for production use but is a great `Developer Experience`. Feedback calls the approach `game-changing` - we hope you agree!
 
-## Join the Kubernetes101 GitHub Org
+## CSE Labs Fork
 
-> 🛑  Important: You must be a member of the Kubernetes101 GitHub organization
+- This is a fork of the repo presented at Kubecon Europe 2022
+  - <https://github.com/kubernetes101/kubecon2022>
+- Instructions have been updated to use the CSE Labs GitHub tenant
+  - No other changes were made
 
-- If you can't open a Codespace in this repo, you will need need to join the GitHub org
-  - Join the org by going [here](https://kube101.dev/)
-  - Username and Password will be provided during the live session
-- Return to this repo after joining the org
+## Join the CSE-Labs GitHub Org
+
+> You must be a member of the Microsoft OSS and CSE-Labs GitHub organizations
+
+- If you can't open a Codespace in this repo, you need to join the GitHub org(s)
+  - Instructions for joining are [here](https://github.com/cse-labs/moss)
+- Return to this repo after joining the orgs
 
 ## Open with Codespaces
+
+> You must be a member of the Microsoft OSS and CSE-Labs GitHub organizations
 
 - Click the `Code` button on this repo
 - Click the `Codespaces` tab
